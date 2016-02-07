@@ -15,5 +15,5 @@
         "id"      : "title"
         , "title" : "Folder Title"
     }],
-    "title": "instapaper-add-folder" /* Required.A display name for the module */
+    "title": "Instapaper Add Folder" /* Required.A display name for the module */
 }
