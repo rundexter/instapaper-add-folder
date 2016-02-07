@@ -15,6 +15,7 @@
         "id"      : "title"
         , "title" : "Folder Title"
     }],
+    "providers": [ "instapaper" ],
     "icon": "dex-instapaper",
     "title": "Instapaper Add Folder" /* Required.A display name for the module */
 }
