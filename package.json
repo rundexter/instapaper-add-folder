@@ -1,12 +1,14 @@
 {
-    "name": "instapaper-add-folder",
-    "version": "0.0.1",
-    "description": "",
-    "main": "index.js",
-    "author": "Daniel Ilkovich",
-    "license": "ISC",
-    "private": true,
-    "dependencies": {
-        "lodash": "^3.9.3"
-    }
+  "name": "instapaper-add-folder",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "author": "Daniel Ilkovich",
+  "license": "ISC",
+  "private": true,
+  "dependencies": {
+    "instapaper": "^1.1.0",
+    "lodash": "^3.10.1",
+    "q": "^1.4.1"
+  }
 }
