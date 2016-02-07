@@ -6,6 +6,10 @@
   "author": "Daniel Ilkovich",
   "license": "ISC",
   "private": true,
+  "repository": {
+    "type" : "git",
+    "url"  : "https://github.com/rundexter/instapaper-add-folder"
+  },
   "dependencies": {
     "instapaper": "^1.1.0",
     "lodash": "^3.10.1",
